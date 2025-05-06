@@ -206,34 +206,34 @@ mdm/
 ![Login](/screenshots/Login%20Page.png)
 
 ### 🔹 Register
-![Register](/mdm/screenshots/Register%20Page.png)
+![Register](/screenshots/Register%20Page.png)
 
 ### 🔹 Sidebar
-![Sidebar](/mdm/screenshots/SideBar.png)
+![Sidebar](/screenshots/SideBar.png)
 
 ### 🔹 Dashboard
-![Dashboard](/mdm/screenshots/Dashboard.png)
+![Dashboard](/screenshots/Dashboard.png)
 
 ### 🔹 Brand
-![Brand Index](/mdm/screenshots/Brand%20Index%20Page.png)
+![Brand Index](/screenshots/Brand%20Index%20Page.png)
 
-![Create Brand](/mdm/screenshots/Create%20Brand.png)
+![Create Brand](/screenshots/Create%20Brand.png)
 
-![Update Brand](/mdm/screenshots/Edit%20Brand.png)
+![Update Brand](/screenshots/Edit%20Brand.png)
 
 ### 🔹 Category
-![Category Index](/mdm/screenshots/Category%20Index%20Page.png)
+![Category Index](/screenshots/Category%20Index%20Page.png)
 
-![Create Category](/mdm/screenshots/Create%20Category.png)
+![Create Category](/screenshots/Create%20Category.png)
 
-![Update Category](/mdm/screenshots/Edit%20Category.png)
+![Update Category](/screenshots/Edit%20Category.png)
 
 ### 🔹 Item
-![Item Index](/mdm/screenshots/Item%20Index%20Page.png)
+![Item Index](/screenshots/Item%20Index%20Page.png)
 
-![Create Item](/mdm/screenshots/Create%20Item.png)
+![Create Item](/screenshots/Create%20Item.png)
 
-![Update Item](/mdm/screenshots/Edit%20Item.png)
+![Update Item](/screenshots/Edit%20Item.png)
 ---
 
 ## 👨‍💻 Developer
