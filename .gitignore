@@ -1,0 +1,6 @@
+/uploads/
+*.sql
+.env
+Note.txt
+Theory.txt
+/vendor/
