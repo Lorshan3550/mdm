@@ -203,7 +203,7 @@ mdm/
 ## 📸 Screenshots
 
 ### 🔹 Login
-![Login](/mdm/screenshots/Login%20Page.png)
+![Login](/screenshots/Login%20Page.png)
 
 ### 🔹 Register
 ![Register](/mdm/screenshots/Register%20Page.png)
